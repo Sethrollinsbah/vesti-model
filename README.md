@@ -75,3 +75,4 @@ python run_ootd.py --model_path <model-image-path> --cloth_path <cloth-image-pat
 - [x] Inference code
 - [x] Model weights
 - [ ] Training code
+# vesti-model
