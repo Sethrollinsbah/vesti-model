@@ -1,0 +1,6 @@
+checkpoints/clip-vit-large-patch14/* filter=lfs diff=lfs merge=lfs -text
+checkpoints/humanparsing/* filter=lfs diff=lfs merge=lfs -text
+checkpoints/ootd/* filter=lfs diff=lfs merge=lfs -text
+checkpoints/openpose/* filter=lfs diff=lfs merge=lfs -text
+checkpoints/**/*.bin filter=lfs diff=lfs merge=lfs -text
+checkpoints/**/*.pth filter=lfs diff=lfs merge=lfs -text
